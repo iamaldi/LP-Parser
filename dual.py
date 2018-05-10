@@ -203,3 +203,6 @@ dual_out.write(' ')
 
 # 'c' technological constraints
 dual_out.write(str(c))
+
+# Close file
+dual_out.close()
